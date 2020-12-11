@@ -16,6 +16,8 @@ public class EjercicioGit {
      */
     public static void main(String[] args) {
         System.out.println("Primer cambio en el archivo");
+        System.out.println("Segunda linea en el metodo main");
+        System.out.println("Tercera linea en el metodo main");
     }
     
 }
